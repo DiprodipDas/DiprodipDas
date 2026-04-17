@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <span style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
+  <span style="display:flex; flex-wrap:wrap; gap:10; align-items:center;">
     
     <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
     <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
