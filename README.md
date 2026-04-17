@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diprodip-das-4a5b761ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diprodip-das-4a5b761ba/" width="40" /></a>
+<a href="https://linkedin.com/in/diprodip-das-4a5b761ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diprodip-das-4a5b761ba/" width="30" /></a>
 <a href="https://fb.com/diprodip.das.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diprodip.das.9/" width="30" /></a>
 </p>
 
